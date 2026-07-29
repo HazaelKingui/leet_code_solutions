@@ -15,7 +15,7 @@ public:
         if (!list1) return list2;
         if (!list2) return list1;
 
-        ListNode* cabeca = list1; 
+        ListNode* head = list1; 
         ListNode* res = list1;
         while (res->next != nullptr) {
             res = res->next;
@@ -23,18 +23,18 @@ public:
         res->next = list2; 
 
         std::vector<int> valores;
-        ListNode* atual = cabeca; 
+        ListNode* atual = head; 
         while (atual != nullptr) { 
             valores.push_back(atual->val);
             atual = atual->next;
         }
         std::sort(valores.begin(), valores.end());
-        atual = cabeca;
+        atual = head;
         for (int v : valores)
         {
             atual->val = v;
             atual = atual->next;
         }
-        return cabeca; 
+        return head; 
     }
 };
