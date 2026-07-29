@@ -22,15 +22,15 @@ public:
         }
         res->next = list2; 
 
-        std::vector<int> valores;
+        std::vector<int> values;
         ListNode* atual = head; 
         while (atual != nullptr) { 
-            valores.push_back(atual->val);
+            values.push_back(atual->val);
             atual = atual->next;
         }
-        std::sort(valores.begin(), valores.end());
+        std::sort(values.begin(), values.end());
         atual = head;
-        for (int v : valores)
+        for (int v : values)
         {
             atual->val = v;
             atual = atual->next;
