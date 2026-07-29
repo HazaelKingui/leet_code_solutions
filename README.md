@@ -7,6 +7,7 @@ Let's Code!!!
 | ------- |
 | [0001-two-sum](https://github.com/HazaelKingui/leet_code_solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/HazaelKingui/leet_code_solutions/tree/master/0014-longest-common-prefix) |
+| [0136-single-number](https://github.com/HazaelKingui/leet_code_solutions/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +33,8 @@ Let's Code!!!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HazaelKingui/leet_code_solutions/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/HazaelKingui/leet_code_solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
