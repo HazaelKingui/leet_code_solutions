@@ -7,6 +7,7 @@ Let's Code!!!
 | ------- |
 | [0001-two-sum](https://github.com/HazaelKingui/leet_code_solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/HazaelKingui/leet_code_solutions/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/HazaelKingui/leet_code_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/HazaelKingui/leet_code_solutions/tree/master/0136-single-number) |
 ## Hash Table
 |  |
@@ -45,4 +46,8 @@ Let's Code!!!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/HazaelKingui/leet_code_solutions/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/HazaelKingui/leet_code_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
