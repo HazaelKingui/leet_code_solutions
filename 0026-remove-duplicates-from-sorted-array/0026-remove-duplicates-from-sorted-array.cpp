@@ -11,7 +11,7 @@ public:
             {
                 if (nums[i] == nums[j])
                 {
-                    nums.erase(nums.begin() + j);
+                    nums.erase(nums.begin() + i);
                     continue;
                 }
                 j++;
